@@ -7,3 +7,6 @@ install-sh
 COPYING
 INSTALL
 missing
+
+config.log
+config.status
